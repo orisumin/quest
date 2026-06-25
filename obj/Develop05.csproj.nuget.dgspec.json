@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\학교\\Idaho Sophomore-Spring\\CSE 210\\cse210-hw\\prove\\Develop05\\Develop05.csproj": {}
+    "C:\\Users\\jsbat\\Eternal Quest C#\\quest\\Develop05.csproj": {}
   },
   "projects": {
-    "E:\\학교\\Idaho Sophomore-Spring\\CSE 210\\cse210-hw\\prove\\Develop05\\Develop05.csproj": {
+    "C:\\Users\\jsbat\\Eternal Quest C#\\quest\\Develop05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\학교\\Idaho Sophomore-Spring\\CSE 210\\cse210-hw\\prove\\Develop05\\Develop05.csproj",
+        "projectUniqueName": "C:\\Users\\jsbat\\Eternal Quest C#\\quest\\Develop05.csproj",
         "projectName": "Develop05",
-        "projectPath": "E:\\학교\\Idaho Sophomore-Spring\\CSE 210\\cse210-hw\\prove\\Develop05\\Develop05.csproj",
-        "packagesPath": "C:\\Users\\LG\\.nuget\\packages\\",
-        "outputPath": "E:\\학교\\Idaho Sophomore-Spring\\CSE 210\\cse210-hw\\prove\\Develop05\\obj\\",
+        "projectPath": "C:\\Users\\jsbat\\Eternal Quest C#\\quest\\Develop05.csproj",
+        "packagesPath": "C:\\Users\\jsbat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jsbat\\Eternal Quest C#\\quest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LG\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jsbat\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
