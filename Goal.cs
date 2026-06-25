@@ -9,6 +9,14 @@ public class Goal
             
         }
     }
-    
+    public void ReadFile()
+    {
+        string fileName = "goaltracker.txt";
+        string[] lines = System.IO.File.ReadAllLines("goaltracker.txt");
 
+        foreach (string line in lines)
+        Console.Write(line);
+    }
+
+    
 }
