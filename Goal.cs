@@ -1,10 +1,13 @@
 public class Goal:Program
-{   protected string jb_name = protected string jbName;
-    protected string jb_description = protected string jbDescription;
-    protected string jb_point = protected int Point;    
-    
-    
-    
+{   protected string jb_name = "";
+    protected string jb_description = "";
+    protected string jb_point = "";    
+    protected string SetName(string jb_name)
+    {return jb_name;}
+    protected string SetDescription(string jb_description)
+    {return jb_description;}
+    protected int SetPoint(int jb_point)
+    {return jb_point;}
     
     
     
