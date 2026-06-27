@@ -15,7 +15,7 @@ public class Goal:Program
     
     
     
-    public void savefile()
+    public void SaveFile()
     {
         string fileName = "goaltracker.txt";
 

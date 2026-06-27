@@ -6,7 +6,7 @@ public class Program
     {
         Console.WriteLine("Hello Develop05 World!");
     }
-    public void savefile()
+    public void SaveFile()
     {
         string fileName = "goaltracker.txt";
 
